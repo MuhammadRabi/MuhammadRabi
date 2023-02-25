@@ -9,9 +9,8 @@ I am Muhammad Rabi 😃. Find out more about me and feel free to contact me here
     <a href="https://www.youtube.com/channel/UCPksZXBOyWw034TuDr5Q32w"><img src="https://img.shields.io/badge/youtube-%23FF0000?style=flat&logo=youtube&logoColor=white"/></a>
   </p>
   
-      ![](https://komarev.com/ghpvc/?username=MuhammadRabi)
 
- - 🔭 I'm currently working on a lot of side projects
+ - 🔭 I'm currently working on some side projects
  - 🌱 I'm currently learning React.
  - 👯 I'm looking to collaborate on react web apps!.
- - 💬 Ask me about React and css.
+ - 💬 Ask me about React and Frontend.
