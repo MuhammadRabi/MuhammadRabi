@@ -12,7 +12,7 @@ I'm a front-End web developer (React JS), Find out more about me and feel free t
   
 
  - 🔭 I'm currently working on some side react apps.
- - 🌱 I'm currently learning React.
+ - 🌱 I'm currently learning Typescript and React.
  - 👯 I'm looking to contribute in react web apps!.
  - 💬 Ask me about React and Frontend.
  
