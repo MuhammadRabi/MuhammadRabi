@@ -1,6 +1,6 @@
 # Hi! I'm Muhammad Rabi! 
 
-I'm a front-End web developer (React JS), Find out more about me and feel free to contact me here:
+I'm a front-end web developer, Find out more about me and feel free to contact me here:
 
 <p align="center">
     <a href="https://twitter.com/MuhammadRabi_"><img src="https://img.shields.io/badge/twitter-%231FA1F1?style=flat&logo=twitter&logoColor=white"/></a>
@@ -10,7 +10,7 @@ I'm a front-End web developer (React JS), Find out more about me and feel free t
 
   </p>
   
- - 👯 I'm looking forward to contributing in open source projects.
+ - 👯 I'm looking forward to contributing to open-source projects.
  - 🔭 I'm currently working on some side react apps.
  - 🌱 I'm currently learning Typescript and Next js.
  
